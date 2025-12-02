@@ -1,7 +1,7 @@
 
 # Ethan Hernandez's Portfolio
 
-I am an Electrical Engineer major at California State University Fullerton and I plan on graduation in 2028
+I am an Electrical Engineer major at California State University Fullerton and I plan on graduation in 2029
 
 ## Favorite CPSC 120L Labs
 
